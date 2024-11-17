@@ -38,20 +38,45 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+![{B9D3EDDB-9D50-4C7F-AE40-AC247DCA74D4}](https://github.com/user-attachments/assets/b48468ae-97d3-4c1c-b199-0e090a1a54ef)
+
+
+![{049C85E3-9EAE-41D4-AD13-047DA0FF45D1}](https://github.com/user-attachments/assets/63b7ca18-0ffd-47b8-bb33-a3e91cc5e760)
+
+
 **Procedure**
 
 Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+
+![{8F397CD2-F21F-4DC1-872F-70331AEC71BE}](https://github.com/user-attachments/assets/c87f10d5-c217-47d9-bdfe-148eea78ceeb)
+
+![{39A53D25-82A1-4892-B6A7-6EDD3CBE845D}](https://github.com/user-attachments/assets/1b3136dc-187f-42d6-8d59-86466608d155)
+
+
+
+Developed by:Charithrakshi K RegisterNumber:24900651
 */
 
 **RTL Schematic**
 
+![{0576E9AA-0B4E-4FF7-B47B-29838593E611}](https://github.com/user-attachments/assets/88450d75-ed4d-4b4e-bf7a-b6969f5f43d3)
+
+![{8EDC0EFA-0B7F-498B-8B5F-9414E5698F45}](https://github.com/user-attachments/assets/3eb6bd65-6708-4b19-93e9-9d812f9394b8)
+
+
 **Output Timing Waveform**
 
+![{B4C10A14-859E-456B-8BEB-EDE0A6DDA849}](https://github.com/user-attachments/assets/cd7d4453-4cc5-47bf-b8a9-30634a4f0a35)
+
+![Screenshot 2024-11-17 174422](https://github.com/user-attachments/assets/243332bb-d166-464a-9566-f3f0587e3b7a)
+
+
 **Result:**
+
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
